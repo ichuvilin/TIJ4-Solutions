@@ -1,5 +1,12 @@
 package object;
 
+/****************** Exercise 16 *****************
+ * In the Initialization and Cleanup chapter, add
+ * Javadoc documentation to the Overloading.java example.
+ * Extract it into an HTML file using Javadoc
+ * and view it with your Web browser.
+ ************************************************/
+
 /**
  * Model of a single arboreal unit.
  */

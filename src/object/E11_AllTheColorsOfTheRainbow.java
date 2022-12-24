@@ -1,5 +1,9 @@
 package object;
 
+/****************** Exercise 11 *****************
+ * Turn the AllTheColorsOfTheRainbow example into
+ * a program that compiles and runs.
+ ************************************************/
 public class E11_AllTheColorsOfTheRainbow {
     int anIntegerRepresentingColors;
 

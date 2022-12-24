@@ -1,5 +1,10 @@
 package object;
 
+/****************** Exercise 5 ******************
+ * Modify Exercise 4 so the values
+ * of the data in DataOnly are assigned to and
+ * printed in main().
+ ************************************************/
 public class E05_DataOnly2 {
     public static void main(String[] args) {
         E04_DataOnly d = new E04_DataOnly();

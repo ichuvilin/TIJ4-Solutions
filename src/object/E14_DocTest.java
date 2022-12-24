@@ -1,5 +1,9 @@
 package object;
 
+/****************** Exercise 14 *****************
+ * Add an HTML list of items to the documentation
+ * in Exercise 13.
+ ************************************************/
 public class E14_DocTest {
     /**
      * A variable comment

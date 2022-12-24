@@ -2,6 +2,10 @@ package operators;
 
 import static lib.Print.print;
 
+/****************** Exercise 9 *****************
+ * Display the largest and smallest numbers for
+ * both float and double exponential notation.
+ ***********************************************/
 public class E09_MinMaxExponents {
     public static void main(String[] args) {
         print("Float MIN: " + Float.MIN_VALUE);

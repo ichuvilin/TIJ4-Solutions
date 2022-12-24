@@ -1,5 +1,9 @@
 package operators;
 
+/****************** Exercise 2 *****************
+ * Create a class containing a float and use it to
+ * demonstrate aliasing.
+ ***********************************************/
 class Integral {
     float f;
 }

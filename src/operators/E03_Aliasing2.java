@@ -1,5 +1,9 @@
 package operators;
 
+/****************** Exercise 3 *****************
+ * Create a class containing a float and use it
+ * to demonstrate aliasing during method calls.
+ ***********************************************/
 public class E03_Aliasing2 {
     static void f (Integral i) {
         i.f = 5;
