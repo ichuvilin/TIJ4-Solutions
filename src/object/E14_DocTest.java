@@ -17,7 +17,6 @@ public class E14_DocTest {
      * <li> Item one
      * <li> Item two
      * <li> Item three
-     * Thinking in Java, 4th 18 Edition Annotated Solution Guide
      * </ol>
      */
     public void f() {
