@@ -1,6 +1,6 @@
 package reusing;
 
-import lib.WithFinals;
+import utils.WithFinals;
 
 class OverridingPrivateE20 extends WithFinals {
 

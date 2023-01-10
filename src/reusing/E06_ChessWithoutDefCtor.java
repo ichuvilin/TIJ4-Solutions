@@ -1,7 +1,7 @@
 package reusing;
 
 
-import lib.BoardGame;
+import utils.BoardGame;
 
 class ChessWithoutDefCtor extends BoardGame {
 //    ChessWithoutDefCtor() {

@@ -1,6 +1,6 @@
 package operators;
 
-import static lib.Print.print;
+import static utils.Print.print;
 
 /****************** Exercise 8 *****************
  * Show that hex and octal notations work with long

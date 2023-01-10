@@ -1,4 +1,4 @@
-package lib;
+package utils;
 
 public class Cleanser {
     private String s = "Cleanser";

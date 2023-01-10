@@ -1,6 +1,6 @@
 package operators;
 
-import static lib.Print.print;
+import static utils.Print.print;
 
 /****************** Exercise 10 *****************
  * Write a program with two constant values, one

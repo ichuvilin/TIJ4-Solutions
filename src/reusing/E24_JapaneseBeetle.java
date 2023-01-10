@@ -1,8 +1,8 @@
 package reusing;
 
-import lib.Beetle;
+import utils.Beetle;
 
-import static lib.Print.print;
+import static utils.Print.print;
 
 class JapaneseBeetle extends Beetle {
     int m = printInit("JapaneseBeetle.m initialized");

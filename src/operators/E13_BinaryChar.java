@@ -1,6 +1,6 @@
 package operators;
 
-import static lib.Print.print;
+import static utils.Print.print;
 
 /****************** Exercise 13 *****************
  * Write a method to display char values in

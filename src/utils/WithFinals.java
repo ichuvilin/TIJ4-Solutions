@@ -1,4 +1,4 @@
-package lib;
+package utils;
 
 public class WithFinals {
     // Identical to "private" alone:

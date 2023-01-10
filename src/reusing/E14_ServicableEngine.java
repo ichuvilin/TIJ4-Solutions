@@ -1,8 +1,8 @@
 package reusing;
 
-import lib.car.Door;
-import lib.car.Engine;
-import lib.car.Wheel;
+import utils.car.Door;
+import utils.car.Engine;
+import utils.car.Wheel;
 
 class ServicableEngine extends Engine {
     public void service() {}

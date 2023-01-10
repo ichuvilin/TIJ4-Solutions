@@ -1,4 +1,4 @@
-package lib.car;
+package utils.car;
 
 public class Door {
     public Window window = new Window();

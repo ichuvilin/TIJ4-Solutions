@@ -1,6 +1,6 @@
-package lib;
+package utils;
 
-import static lib.Print.print;
+import static utils.Print.print;
 
 public class Beetle extends Insect {
     private int k = printInit("Beetle.k initialized");

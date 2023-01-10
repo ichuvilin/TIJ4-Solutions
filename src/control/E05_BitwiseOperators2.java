@@ -1,7 +1,7 @@
 package control;
 
-import static lib.Print.print;
-import static lib.Print.printnb;
+import static utils.Print.print;
+import static utils.Print.printnb;
 
 
 public class E05_BitwiseOperators2 {

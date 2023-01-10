@@ -1,6 +1,6 @@
 package reusing;
 
-import lib.Cartoon;
+import utils.Cartoon;
 
 class CartoonWithDefCtor extends Cartoon {
     CartoonWithDefCtor() {

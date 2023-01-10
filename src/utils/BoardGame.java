@@ -1,4 +1,4 @@
-package lib;
+package utils;
 
 class Game {
     public Game(int i) {

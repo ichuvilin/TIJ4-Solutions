@@ -1,6 +1,6 @@
 package operators;
 
-import static lib.Print.print;
+import static utils.Print.print;
 
 /****************** Exercise 11 *****************
  * Start with a number that has a binary one in

@@ -1,6 +1,6 @@
 package control;
 
-import static lib.Print.*;
+import static utils.Print.*;
 
 
 public class E07_To98 {

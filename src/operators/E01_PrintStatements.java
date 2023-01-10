@@ -1,7 +1,7 @@
 package operators;
 
 import java.util.Date;
-import static lib.Print.*;
+import static utils.Print.*;
 
 /****************** Exercise 1 *****************
  * Write a program that uses the "short" and

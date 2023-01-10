@@ -1,6 +1,6 @@
 package reusing;
 
-import lib.Detergent;
+import utils.Detergent;
 
 
 class NewDetergent extends Detergent {

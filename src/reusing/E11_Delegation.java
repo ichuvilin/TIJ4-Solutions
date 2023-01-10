@@ -1,8 +1,8 @@
 package reusing;
 
-import lib.Cleanser;
+import utils.Cleanser;
 
-import static lib.Print.print;
+import static utils.Print.print;
 
 class DetergentDelegation {
     private Cleanser cleanser = new Cleanser();
